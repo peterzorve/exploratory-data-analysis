@@ -67,20 +67,3 @@ dendrogram_figure = dendrogram(mergings, leaf_rotation=90, leaf_font_size=10)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

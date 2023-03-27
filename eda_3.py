@@ -77,29 +77,3 @@ for day2 in days:
 
 print(days_of_month)
 print(mean_for_the_day)
-
-# print(type(april['congestion']))
-
-# plt.plot(days_of_month, mean_for_the_day)
-
-
-# april_1st_direction = april_1st[april_1st.direction == 'EB']
-# april_1st_direction_x0 = april_1st_direction[april_1st_direction.x == 0]
-# len(april_1st_direction_x0)
-
-
-# april_1st_direction_x0.congestion[:50].plot()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
